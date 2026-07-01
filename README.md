@@ -37,7 +37,7 @@ The primary objective of this dashboard is to answer the following business ques
 ↠ Supported data-driven decisions for customer engagement, revenue optimization, and sales channel strategy.    
 ↠ Improved visibility into customer behavior, high-performing regions, and business growth trends. 
 
-## Dashboard Visual Analysis.
+## Key Insides.
 - **Daily Revenue Trend:**
    Revenue remains stable between approximately 5K and 6K for most days, with a noticeable dip near the end of
    the month. This suggests consistent demand with a short period of reduced sales that may require targeted
