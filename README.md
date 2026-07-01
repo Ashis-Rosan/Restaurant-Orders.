@@ -18,15 +18,15 @@ The primary objective of this dashboard is to answer the following business ques
 - Which products have the highest order value.
 
 ## KPI Analysis
-**1.** Total Orders:  
+**1.** **Total Orders:**  
    This KPI represents the total number of customer orders placed during the selected period.  
-**2.** Total Revenue  
+**2.** **Total Revenue:**  
    Represents the total revenue generated from all completed orders.  
-**3.** Items Sold:   
+**3.** **Items Sold:**   
    Represents the total quantity of menu items sold.   
-**4.** Average Item Price:   
+**4.** **Average Item Price:**   
    Shows the average selling price of menu items.  
-**5.** Average Order Value:   
+**5.** **Average Order Value:**   
    Represents the average amount spent per customer order. explain this in simple words.
    
 ![Image](https://github.com/Ashis-Rosan/Restaurant-Orders./blob/834621174d781681fa0fc7f57f26cdd0f25eeaac/Screenshot%202026-07-01%20160419.png)
@@ -39,21 +39,21 @@ The primary objective of this dashboard is to answer the following business ques
 
 ## Dashboard Visual Analysis.
 - **Daily Revenue Trend.**
-Revenue remains stable between approximately 5K and 6K for most days, with a noticeable dip near the end of
-the month. This suggests consistent demand with a short period of reduced sales that may require targeted
-promotions.
+   Revenue remains stable between approximately 5K and 6K for most days, with a noticeable dip near the end of
+   the month. This suggests consistent demand with a short period of reduced sales that may require targeted
+   promotions.
 - **Revenue by Menu Item:**
-Spaghetti & Meatballs and Tofu Pad Thai generate the highest revenue. Potstickers and Veggie Burger
-contribute the least and may benefit from menu redesign, promotions, or combo offers.
+   Spaghetti & Meatballs and Tofu Pad Thai generate the highest revenue. Potstickers and Veggie Burger
+   contribute the least and may benefit from menu redesign, promotions, or combo offers.
 - **Average Item Price by Category.**
-Italian cuisine has the highest average selling price, followed by Asian, Mexican, and American categories. Italian
-items contribute greater value per sale.
-Average Order Value by Item
-Steak Burrito, Tofu Pad Thai, and Steak Torta have the highest average order values, making them ideal for
-premium marketing campaigns.**
+   Italian cuisine has the highest average selling price, followed by Asian, Mexican, and American categories. Italian
+   items contribute greater value per sale.
+- **Average Order Value by Item**
+   Steak Burrito, Tofu Pad Thai, and Steak Torta have the highest average order values, making them ideal for
+   premium marketing campaigns.**
 - **Monthly Sales Matrix.**
-January records the highest sales, February experiences a decline, and March recovers close to January.
-Monitoring seasonality and promotional effectiveness can improve future performance.
+   January records the highest sales, February experiences a decline, and March recovers close to January.
+   Monitoring seasonality and promotional effectiveness can improve future performance.
 
 ## Key Learnings
 - Gained hands-on experience in building interactive Power BI dashboards with dynamic KPIs, filters, and multi-page navigation.
@@ -69,13 +69,13 @@ Monitoring seasonality and promotional effectiveness can improve future performa
 
 **This dashboard shows the following Power BI and analytics skills:**
 
-- Data Cleaning & Transformation: Power Query
-- Data Modeling: Relationships and star schema
-- DAX Measures: Revenue, Orders, Average Order Value, Average Item Price, Items Sold
-- Interactive Reporting: Slicers for Month and Category
-- Data Visualization: KPI Cards, Area Chart, Column Chart, Bar Chart, Pie Chart, Matrix Heatmap
-- Business Analysis: Revenue trends, product performance, pricing analysis, and customer spending insights
-- Dashboard Design: Executive-level layout with interactive filtering and clear visual hierarchy
+- Data Cleaning & Transformation: Power Query.
+- Data Modeling: Relationships and star schema.
+- DAX Measures: Revenue, Orders, Average Order Value, Average Item Price, Items Sold.
+- Interactive Reporting: Slicers for Month and Category.
+- Data Visualization: KPI Cards, Column Chart, Bar Chart, Pie Chart.
+- Business Analysis: Revenue trends, product performance, pricing analysis, and customer spending insights.
+- Dashboard Design: Executive-level layout with interactive filtering and clear visual hierarchy.
 
 ## Tools & Skills Demonstrated:
 Power BI, Power Query, DAX, Data Modeling, KPI Design, Data Visualization, Business Intelligence, Dashboard
