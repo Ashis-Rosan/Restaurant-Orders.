@@ -29,7 +29,7 @@ The primary objective of this dashboard is to answer the following business ques
 **5.** Average Order Value:   
    Represents the average amount spent per customer order. explain this in simple words.
    
-![image.](https://github.com/Ashis-Rosan/Restaurant-Orders./blob/4d520244b8cbc43b7b0cdffc693936dfc38c7d58/Screenshot%202026-07-01%20160419.png.)
+![Image](https://github.com/Ashis-Rosan/Restaurant-Orders./blob/834621174d781681fa0fc7f57f26cdd0f25eeaac/Screenshot%202026-07-01%20160419.png)
 
   ### Business Impact:
 
