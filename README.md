@@ -28,6 +28,8 @@ The primary objective of this dashboard is to answer the following business ques
    Shows the average selling price of menu items.  
 **5.** Average Order Value:
    Represents the average amount spent per customer order. explain this in simple words.
+   
+![image alt](https://github.com/Ashis-Rosan/Restaurant-Orders./blob/4d520244b8cbc43b7b0cdffc693936dfc38c7d58/Screenshot%202026-07-01%20160419.png.)
 
   ### Business Impact:
 
