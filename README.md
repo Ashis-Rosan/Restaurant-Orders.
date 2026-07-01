@@ -57,12 +57,10 @@ The primary objective of this dashboard is to answer the following business ques
 
 ## Key Learnings
 - Gained hands-on experience in building interactive Power BI dashboards with dynamic KPIs, filters, and multi-page navigation.
-- Developed strong skills in data modeling and DAX calculations for metrics like daily growth rates and settlement percentages.
-- Learned to create clear, actionable visual insights for management and business stakeholders.
-- Improved understanding of customer behavior, sales channel performance, and age group analysis through data visualization.
-- Enhanced dashboard design skills, including layout consistency, color schemes, and intuitive navigation.
+- Developed strong skills in data modeling and DAX calculations for metrics like monthly growth rates.
+- Improved understanding of customer behavior, sales performance  through data visualization.
+- Enhanced dashboard design skills, including layout consistency, color schemes, and deshboard navigation.
 - Strengthened analytical thinking and the ability to translate data into business-driven insights.
-- Improved storytelling and communication skills, by presenting complex metrics in a concise and engaging manner to guide decision-making.
 - Developed problem-solving and attention-to-detail skills while ensuring data accuracy and dashboard usability.
 
 ## Skills Demonstrated in This Project
