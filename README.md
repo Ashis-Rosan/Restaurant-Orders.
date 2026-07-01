@@ -38,20 +38,20 @@ The primary objective of this dashboard is to answer the following business ques
 ↠ Improved visibility into customer behavior, high-performing regions, and business growth trends. 
 
 ## Dashboard Visual Analysis.
-- **Daily Revenue Trend.**
+- **Daily Revenue Trend:**
    Revenue remains stable between approximately 5K and 6K for most days, with a noticeable dip near the end of
    the month. This suggests consistent demand with a short period of reduced sales that may require targeted
    promotions.
 - **Revenue by Menu Item:**
    Spaghetti & Meatballs and Tofu Pad Thai generate the highest revenue. Potstickers and Veggie Burger
    contribute the least and may benefit from menu redesign, promotions, or combo offers.
-- **Average Item Price by Category.**
+- **Average Item Price by Category:**
    Italian cuisine has the highest average selling price, followed by Asian, Mexican, and American categories. Italian
    items contribute greater value per sale.
-- **Average Order Value by Item**
+- **Average Order Value by Item:**
    Steak Burrito, Tofu Pad Thai, and Steak Torta have the highest average order values, making them ideal for
-   premium marketing campaigns.**
-- **Monthly Sales Matrix.**
+   premium marketing campaigns.
+- **Monthly Sales Matrix:**
    January records the highest sales, February experiences a decline, and March recovers close to January.
    Monitoring seasonality and promotional effectiveness can improve future performance.
 
