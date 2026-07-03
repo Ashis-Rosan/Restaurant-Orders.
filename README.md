@@ -74,7 +74,3 @@ The primary objective of this dashboard is to answer the following business ques
 - Data Visualization: KPI Cards, Column Chart, Bar Chart, Pie Chart.
 - Business Analysis: Revenue trends, product performance, pricing analysis, and customer spending insights.
 - Dashboard Design: Executive-level layout with interactive filtering and clear visual hierarchy.
-
-## Tools & Skills Demonstrated:
-Power BI, Power Query, DAX, Data Modeling, KPI Design, Data Visualization, Business Intelligence, Dashboard
-Development.
